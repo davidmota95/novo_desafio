@@ -17,7 +17,7 @@ function adicionar() {
     }
 
     ulista.appendChild(lista);
-    lista.innerHTML = `Produto : ${nome.value} <p>Preço :  R$${preco.value}`;
+    lista.innerHTML = `Produto : ${nome.value} <p>Valor R$ : ${preco.value} `;
     lista.appendChild(btndell);
   }
   nome.value = ``;

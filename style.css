@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+section {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 2px rgb(0, 0, 0);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.principal {
+  color: white;
+  text-align: center;
+  text-shadow: 3px 3px 3px black;
+  font-size: 20px;
+  background-color: rgb(158, 27, 27);
+  box-shadow: 5px 5px 2px rgb(0, 0, 0);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+div.container {
+  font-size: 22px;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+input#nome {
+  height: 30px;
+  font-size: 20px;
+  background-color: rgba(250, 250, 250, 0);
+}
+input#preco {
+  height: 30px;
+  font-size: 20px;
+  background-color: rgba(250, 250, 250, 0);
+}
+ul {
+  list-style: none;
+}
+li {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: rgb(158, 27, 27);
+  border-radius: 10px;
+  margin-top: 8px;
+  margin-right: 300px;
+  padding: 10px;
+}
+
+h1 {
+  margin: 0;
+}
+h5 {
+  margin: 0;
+}
